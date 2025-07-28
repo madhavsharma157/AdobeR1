@@ -1,0 +1,15 @@
+{
+    "title": "Introduction to Artificial Intelligence",
+    "outline": [
+        {
+            "level": "H1",
+            "text": "Introduction",
+            "page": 1
+        },
+        {
+            "level": "H2",
+            "text": "What is AI?",
+            "page": 2
+        }
+    ]
+}

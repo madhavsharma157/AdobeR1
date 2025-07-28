@@ -1,0 +1,7 @@
+# Execution Instructions
+
+## Build the Docker image:
+docker build --platform linux/amd64 -t docoutline:latest .
+
+## Run the container (adjust path as needed):
+docker run --rm -v $(pwd)/input:/app/input -v $(pwd)/output:/app/output --network none docoutline:latest
